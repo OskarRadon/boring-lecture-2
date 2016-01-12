@@ -9,3 +9,8 @@ p.green {color: #00ff99}
 h2 {font-style: bold;}
 
 img {float: right;}
+
+.highlight {
+  border: 2px solid red;
+  color: red;
+}
