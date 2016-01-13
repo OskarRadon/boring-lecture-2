@@ -1,0 +1,5 @@
+Whitespace looks good, javascript looks good. Updating the readme is good, even though the readme is sparce (simple project though, I understand).
+
+Also looked at cat page, the javascript in that looks good as well.
+
+Would've liked to see the mad lib site, I love mad libs.
